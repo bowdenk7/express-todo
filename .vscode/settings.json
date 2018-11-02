@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/39fca58a-e8d8-41ad-afc7-0af49f717f57/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/sanapart2",
+    "appService.deploySubpath": ""
+}
